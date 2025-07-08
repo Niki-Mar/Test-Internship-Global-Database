@@ -9,7 +9,7 @@
   Even single (non-anagram) words are printed as their own group.
 
 ## How to Run
-  1. Compile
+  1. Compile -
     javac AnagramFinder.java
-  2. Run
+  2. Run -
     java AnagramFinder sample.txt
