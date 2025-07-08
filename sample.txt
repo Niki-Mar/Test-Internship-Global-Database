@@ -1,0 +1,7 @@
+act
+cat
+acre
+care
+race
+tree
+bee
